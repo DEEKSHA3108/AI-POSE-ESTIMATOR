@@ -8,3 +8,5 @@ Project Include These Steps:
 3. Extract join coordinates from the detected pose
 4. Calculate angles between joints using Numpy and Trigonometry
 5. Building an AI Powered Gym Tracker to count your reps
+
+![UP Curls](https://user-images.githubusercontent.com/49827532/143663101-5df8a589-1fa3-4dcf-9f3f-cb19af623231.png)
